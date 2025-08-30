@@ -37,7 +37,7 @@ A full-stack library management application built with **Laravel** (backend) and
 - **Laravel** 12.0
 - **PHP** 8.2+
 - **Laravel Sanctum** (Authentication)
-- **SQLite** (Database)
+- **PostGreSQL** (Database)
 - **Laravel Tinker** (Development)
 
 ## 📁 Project Structure
